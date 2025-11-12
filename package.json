@@ -1,0 +1,15 @@
+{
+  "name": "wallpaper-downloader",
+  "module": "index.ts",
+  "type": "module",
+  "private": true,
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5"
+  },
+  "dependencies": {
+    "wallpaper": "^7.2.1"
+  }
+}
